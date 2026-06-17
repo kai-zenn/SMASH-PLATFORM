@@ -1,0 +1,6 @@
+{
+  "name": "Sistem Manajemen Sampah Digital (SMASH)",
+  "description": "Sistem Manajemen Sampah Digital terintegrasi untuk Bank Sampah di DKI Jakarta.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
